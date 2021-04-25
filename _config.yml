@@ -22,7 +22,7 @@ title: Potato Time
 email: potato@potato.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello there. My name is Nav and I am a fan of potatoes. Welcome to my potato site!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "potatoblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: navlikespotatoes
 github_username:  navlikespotatoes
